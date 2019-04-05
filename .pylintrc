@@ -1,0 +1,19 @@
+[MASTER]
+load-plugins= pylint.extensions.mccabe,  pylint.extensions.bad_builtin
+
+
+[BASIC]
+good-names=i,
+           j,
+           k,
+           ex,
+           Run,
+           _,
+           x,
+           y
+
+
+[DESIGN]
+
+# Minimum number of public methods for a class (see R0903).
+min-public-methods = 0
