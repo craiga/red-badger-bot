@@ -1,4 +1,4 @@
-A very basic implementation of the Red Badger Martian Robots coding challenge.
+My go at the Red Badger Martian Robots coding challenge.
 
 ```
 $ pipenv run python red_badger_bot.py
@@ -24,7 +24,7 @@ Starting coordinates and direction for robot #4: ^C
  * The program includes some prompts to make it a bit easier to tell which line of input is being entered.
  * The output of the program is interlaced with the input.
  * There's no validation of maximum values of coordinates or maximum lengths of instruction strings. I took those lines in the challenge to mean such validation was out of scope of this project.
- * To exit the program, press Control+C (or your operating system's keyboard interrupt key).
+ * To exit the program, press Control+C (or your operating system's interrupt key).
 
 
 # Getting Started
